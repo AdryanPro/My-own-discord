@@ -1,0 +1,26 @@
+.contrainer{
+    display: flex;
+}
+
+.navParametre{
+    padding-top: 100px;
+    background-color: #8c8dc5;
+    margin-left: 10%;
+    width: 220px;
+}
+
+
+/* .boite{
+    
+} */
+
+.boite li{
+    list-style-type: none;
+    margin-left: 30px;
+    padding: 8px 0px 8px 0px;
+}
+
+.boite li a{
+    text-decoration: none;
+    color: black;
+}
